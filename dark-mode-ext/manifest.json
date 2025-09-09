@@ -1,0 +1,21 @@
+{
+    "manifest_version" : 3,
+    "name" : "Dark mode extension",
+    "version" : "0.1.1",
+    "description" : "Ativa o modo escuro em páginas web",
+    "action" : { 
+        "default_popup" : "popup.html",
+        "default_tittle" : "Ativar/Desativar Dark Mode",
+        "default_icon" : {
+            "16" : "img/icon.png",
+            "48" : "img/icon.png",
+            "128" : "img/icon.png"
+        }
+    },
+    "icons": {
+        "16" : "img/icon.png",
+        "48" : "img/icon.png",
+        "128" : "img/icon.png"
+        
+    }
+}
