@@ -1,15 +1,29 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dark Mode</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 </head>
-<body>
 
-    <h1>Tema escuro:</h1>
-    <buttom id="on">On</buttom>
-    <buttom id="Off">Off</buttom>
+<body class="bg-black">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <div class="container" style="width: 320px; padding: 1rem;">
+        <h1 id="titulo" class="h4">Tema escuro:</h1>
+        <div>
+            <button class="botaoOn" id="botao-on">ON</button>
+            <button class="botaoOff" id="botao-off">OFF</button>
+        </div>
+        <small>Seus olhos agradecem 😉</small>
+    </div>
 
+    <script src="popup.js"></script>
 </body>
-</html> 
+
+</html>

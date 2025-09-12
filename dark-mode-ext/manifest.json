@@ -5,11 +5,12 @@
     "description" : "Ativa o modo escuro em páginas web",
     "action" : { 
         "default_popup" : "popup.html",
-        "default_tittle" : "Ativar/Desativar Dark Mode",
+        "default_title" : "Ativar/Desativar Dark Mode",
         "default_icon" : {
-            "16" : "img/icon.png",
-            "48" : "img/icon.png",
-            "128" : "img/icon.png"
+            "16" : "img/icon16.png",
+            "32" : "img/icon32.png",
+            "48" : "img/icon48.png",
+            "128" : "img/icon128.png"
         }
     },
     "icons": {
@@ -17,5 +18,10 @@
         "48" : "img/icon.png",
         "128" : "img/icon.png"
         
-    }
+    },
+"background" : {
+    "service_woker" : "background/service_woker.js"
+},
+ "permissions" : ["scripting", "tabs"],
+ "host_permissions" : ["all_urls>"]
 }
