@@ -25,7 +25,7 @@ Uma extensão simples para Google Chrome que permite ativar ou desativar o **mod
 7. A extensão aparecerá na barra de extensões 🎉.
 
 ### 🔹 Opção 2 — Download via Release (Recomendado)
-➡️ [Baixar a versão mais recente (.zip)](https://github.com/usuario/repositorio/releases/latest)
+➡️ [Baixar a versão mais recente (.zip)](https://github.com/helenafurtadoo/bootcamp2-chrome-dark-mode-extension/releases/latest)
 
 ---
 

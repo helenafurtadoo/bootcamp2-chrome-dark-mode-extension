@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp2-chrome-dark-mode-extension",
+  "version": "1.0.0",
+  "description": "Uma extensão simples para Google Chrome que permite ativar ou desativar o **modo escuro** nas páginas, a partir de um popup amigável.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenafurtadoo/bootcamp2-chrome-dark-mode-extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenafurtadoo/bootcamp2-chrome-dark-mode-extension/issues"
+  },
+  "homepage": "https://github.com/helenafurtadoo/bootcamp2-chrome-dark-mode-extension#readme"
+}

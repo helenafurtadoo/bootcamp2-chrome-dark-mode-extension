@@ -1,0 +1,5 @@
+# pre-req : git/github desktop
+# instalar o WSL2 ( windows)
+# instalar o docker desktop
+# instalar o noje.js
+# playwright
