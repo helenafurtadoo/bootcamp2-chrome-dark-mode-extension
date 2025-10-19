@@ -3,3 +3,4 @@
 # instalar o docker desktop
 # instalar o noje.js
 # playwright
+# instalar o archiver
