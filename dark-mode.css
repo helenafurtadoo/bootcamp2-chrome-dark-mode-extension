@@ -1,0 +1,10 @@
+/* Dark mode styles injected into the active page */
+html, body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+img, picture, video {
+  filter: brightness(0.9) contrast(0.9) !important;
+}
+a { color: #8ab4f8 !important; }
+* { background-image: none !important; }
